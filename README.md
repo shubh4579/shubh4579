@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubh4579" alt="shubh4579" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://shubh4579.github.io/Portfolio-shubh4579/](https://shubh4579.github.io/Portfolio-shubh4579/)
+- 👨‍💻 All of my projects are available at [https://shubh4579.github.io/Portfolio-shubh4579/](https://shubh4579.github.io/portfolio-shubh/)
 
 - 📫 How to reach me **shubh4579@gmail.com**
 
